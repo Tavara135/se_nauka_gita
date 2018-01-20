@@ -1,6 +1,6 @@
-# Kotek 
+# Kotek
 
-## First day
+## Second day
 *hello git*
 
 **how are you today?**
